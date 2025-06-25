@@ -15,7 +15,7 @@ on:
     branches: [ "main" ]
 env:
   DOCKER_IMAGE: springbootvuejs
-  DOCKER_TAG: 0.3
+  DOCKER_TAG: 0.5
 
 jobs:
   build:
